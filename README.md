@@ -24,8 +24,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterGriffinSr&layout=compact&theme=tokyonight" height="170"/>
-  <a href="https://github.com/calyxium-lang/calyxium">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=calyxium-lang&repo=calyxium&theme=tokyonight" height="170"/>
+  <a href="https://github.com/flint-language/calyxium">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=flint-language&repo=flint&theme=tokyonight" height="170"/>
   </a>
 </p>
 
