@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 - Applied Mathematics major with a deep interest in theory, abstraction, and practical implementation  
-- Creator of **Calyxium**, a multi-paradigm, memory-safe, strongly typed programming language with ad-hoc polymorphism - built from the ground up in **OCaml**  
+- Creator of **Flint**, a memory-safe, strongly typed programming language with polymorphism - built from the ground up in **Go**  
 - Passionate about **compilers, operating systems, and functional programming**  
 - Always exploring the bridge between **mathematics and computer science**, from type systems.  
 
