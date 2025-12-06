@@ -24,9 +24,6 @@
 
 <p align="center">
   <img src="[Stats](https://githubcard.com/PeterGriffinSr.svg?d=cczHdZKt)" height="170"/>
-  <a href="https://github.com/flint-language/flint">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=flint-language&repo=flint&theme=tokyonight" height="170"/>
-  </a>
 </p>
 
 ---
