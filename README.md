@@ -19,14 +19,6 @@
 - Always exploring the bridge between **mathematics and computer science**, from type systems.  
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="![GitHub Card](https://githubcard.com/PeterGriffinSr.svg?d=cczHdZKt)" height="170"/>
-</p>
-
----
 ## 🛠️ Tech Stack
 ![Skills](https://skillicons.dev/icons?i=ocaml,c,linux,git,github,vscode)
 
