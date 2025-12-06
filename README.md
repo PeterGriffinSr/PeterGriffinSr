@@ -3,9 +3,8 @@
 <h1 style="margin:0; font-weight:700; color:#ffffff; font-size:32px; line-height:1;">
   <span>Hi, I'm a</span>
   <img
-    src="https://readme-typing-svg.herokuapp.com?size=46&font=Inter&weight=700&duration=3000&pause=1000&color=ffffff&vCenter=true&width=500&lines=Systems+Programmer;Mathematician;Developer"
+    src="https://readme-typing-svg.herokuapp.com?size=32&font=Inter&weight=700&duration=2500&pause=1200&color=FFFFFF&vCenter=true&width=420&lines=Systems+Programmer;Mathematician;Developer"
     alt="typing"
-    height="32em"
     style="vertical-align:middle;"
   />
 </h1>
