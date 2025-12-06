@@ -23,7 +23,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterGriffinSr&layout=compact&theme=tokyonight" height="170"/>
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=PeterGriffinSr&layout=compact&theme=tokyonight](https://githubcard.com/PeterGriffinSr.svg?d=cczHdZKt)" height="170"/>
   <a href="https://github.com/flint-language/flint">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=flint-language&repo=flint&theme=tokyonight" height="170"/>
   </a>
