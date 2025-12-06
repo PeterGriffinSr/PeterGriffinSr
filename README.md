@@ -23,7 +23,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="[Stats](https://githubcard.com/PeterGriffinSr.svg?d=cczHdZKt)" height="170"/>
+  <img src="![GitHub Card](https://githubcard.com/PeterGriffinSr.svg?d=cczHdZKt)" height="170"/>
 </p>
 
 ---
