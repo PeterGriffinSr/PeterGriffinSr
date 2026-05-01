@@ -7,7 +7,7 @@
 ---
 
 ## About Me
-- Applied Mathematics major with a deep interest in theory, abstraction, and practical implementation  
+- Dual Mathematics major with a deep interest in theory, abstraction, and practical implementation  
 - Passionate about **compilers, operating systems, and functional programming**  
 
 ---
