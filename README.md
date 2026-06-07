@@ -8,7 +8,7 @@
 
 ## About Me
 - Dual Mathematics major with a deep interest in theory, abstraction, and practical implementation  
-- Passionate about **compilers, operating systems, and functional programming**  
+- Passionate about **compilers, and functional programming**  
 
 ---
 ## Tech Stack
