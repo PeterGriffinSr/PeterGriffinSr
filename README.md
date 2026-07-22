@@ -12,7 +12,7 @@
 
 ---
 ## Tech Stack
-![Skills](https://skillicons.dev/icons?i=ocaml,c,haskell,linux,git,vscode)
+![Skills](https://skillicons.dev/icons?i=ocaml,c,linux,git,vscode)
 
 ---
 
